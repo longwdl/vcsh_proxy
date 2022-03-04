@@ -1,0 +1,7 @@
+*
+!.ssh/assh.d/proxy.yml
+!.ssh/config.d/proxy
+!.gitignore.d/
+!.gitignore.d/assh
+!.LICENSES.d/
+!.LICENSES.d/assh
