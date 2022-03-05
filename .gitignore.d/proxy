@@ -1,4 +1,5 @@
 *
+!.gitconfig.proxy
 !.ssh/assh.d/proxy.yml
 !.ssh/config.d/proxy
 !.gitignore.d/
