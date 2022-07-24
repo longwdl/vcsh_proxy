@@ -3,6 +3,6 @@
 !.ssh/assh.d/proxy.yml
 !.ssh/config.d/proxy
 !.gitignore.d/
-!.gitignore.d/assh
+!.gitignore.d/proxy
 !.LICENSES.d/
-!.LICENSES.d/assh
+!.LICENSES.d/proxy
